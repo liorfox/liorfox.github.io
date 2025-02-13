@@ -15,7 +15,7 @@ I'm currently interested in studying the representations formed by unsupervised 
 
 During my PhD studies, my research focus was exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I was combining theoretical approaches, developing models and algorithms for effective exploration, with experimental approaches for studying exploratory behavior of humans in complex environments.
 
-I have a special interest in the [history](https://liorfox.substack.com) of neural networks models in computational neuroscience, cognitive sciences, and AI.
+I have a special interest in the [history](https://liorfox.substack.com) of [neural networks models](history) in computational neuroscience, cognitive sciences, and AI.
 
 ## Contact
 The best way of contact is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 
