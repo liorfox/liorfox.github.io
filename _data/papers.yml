@@ -47,3 +47,24 @@
     - Ohad Dan
     - Yonatan Loewenstein
   link: https://psyarxiv.com/s96b2/
+
+- year: 2025
+  title: 'Is there Value in Reinforcement Learning?'
+  venue: 'Reinforcement Learning and Decision Making (RLDM)'
+  authors:
+    - Lior Fox
+    - Yonatan Loewenstein
+  link: https://arxiv.org/abs/2505.04822
+
+
+- year: 2025
+  title: 'Maximum Likelihood Learning of Latent Dynamics Without Reconstruction'
+  venue: 'arxiv perprint'
+  authors:
+    - Samo Hromadka
+    - Kai Biegun
+    - Lior Fox
+    - James Heald
+    - Maneesh Sahani
+  link: https://arxiv.org/abs/2505.23569
+
