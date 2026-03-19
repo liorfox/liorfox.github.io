@@ -7,7 +7,12 @@
             {%if author contains site.title%}<strong>{{author}}</strong>{% else %}{{author}}{% endif %}{% unless forloop.last %}, {%endunless%}
         {% endfor %}    
         <br/>
-        <em>{{talk.venue}} {{talk.year}}</em> 
+        <em>{{talk.venue}} {{talk.year}}</em>  
+          {%if talk.link%}
+          [<a href={{talk.link}} target="_blank">{{talk.type}}</a>]<br/>
+          {% else %}
+          [{{talk.type}}]
+          {%endif%}
     </p>
     {% endfor %}
 

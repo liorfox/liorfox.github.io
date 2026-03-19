@@ -16,4 +16,6 @@ I sometimes try to write less formal stuff.
 
 - [Is Deep Learning relevant for the Brain and Mind?](assets/pdf/dl_course_jan20.pdf){:target="_blank"} (Slides) guest lecture for ELSC Practical Intro to DL course, January 2020 _\[some views might be slightly outdated...\]_
 
-- [Selected history of neural network modelling](history) with clickable references. Accompanying [blogpost](){:target="_blank"}
+- [A visual (selected) history of neural network modelling](history) with clickable references. Accompanying [blogpost](https://liorfox.substack.com/p/mapping-out){:target="_blank"}
+
+- Some notes on the [history of the concept of "representations"](https://liorfox.substack.com/p/neither-representation-nor-computation) in neuroscience (and neural networks)

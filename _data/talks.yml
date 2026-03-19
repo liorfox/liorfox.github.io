@@ -5,6 +5,7 @@
     - Lior Fox*
     - Leshem Choshen*
     - Yonatan Loewenstein
+  type: 'poster'
 
 - year: 2019
   title: 'In search of optimal exploration'
@@ -12,6 +13,7 @@
   authors:
     - Lior Fox
     - Yonatan Loewenstein
+  type: 'poster'
   
 - year: 2019
   title: 'Maximum Entropy Approach for Optimal Exploration'
@@ -19,6 +21,7 @@
   authors:
     - Lior Fox
     - Yonatan Loewenstein
+  type: 'poster'
 
 - year: 2022
   title: 'Long-term consequences of actions affect human exploration in structured environments'
@@ -28,4 +31,33 @@
     - Ohad Dan
     - Gal Yarden
     - Yonatan Loewenstein
+  type: 'poster'
+
+
+- year: 2025
+  title: 'Investigating the computational principles underlying auditory cortical representations using recurrent networks'
+  venue: 'International Conference on Auditory Cortex (ICAC)'
+  authors:
+    - Lior Fox*
+    - Arielle Rosinski*
+    - Jennifer Linden
+    - Maneesh Sahani
+  type: 'poster'
+
+- year: 2026
+  title: 'Investigating the computational principles underlying dynamical auditory cortical representations'
+  venue: 'Computational and Systems Neuroscience (Cosyne)'
+  authors:
+    - Lior Fox*
+    - Arielle Rosinski*
+    - Jennifer Linden
+    - Maneesh Sahani
+  type: 'poster'
+
+- year: 2026
+  title: 'Unsupervised representation learning by amortised neural message-passing'
+  authors: Lior Fox
+  venue: 'van Vreeswijk Theoretical Neuroscience Seminar'
+  link: 'https://www.youtube.com/watch?v=_khZtIaEGmA'
+  type: 'talk'
 
