@@ -57,14 +57,25 @@
   link: https://arxiv.org/abs/2505.04822
 
 
-- year: 2025
+- year: 2026
   title: 'Maximum Likelihood Learning of Latent Dynamics Without Reconstruction'
-  venue: 'arxiv perprint'
+  venue: 'International Conference on Machine Learning (ICML)'
   authors:
     - Samo Hromadka
     - Kai Biegun
     - Lior Fox
     - James Heald
     - Maneesh Sahani
-  link: https://arxiv.org/abs/2505.23569
+  link: https://openreview.net/forum?id=2CliXIoJNZ
 
+- year: 2026
+  title: 'RAMP: Recognition parametrisation by Amortised Message Passing'
+  venue: 'Symposium on Probabilistic Machine Learning (ProbML)'
+  authors:
+    - Lior Fox
+    - Kai Biegun
+    - James Heald
+    - Samo Hromadka
+    - Arielle Rosinski
+    - Maneesh Sahani
+  link: https://openreview.net/forum?id=y7Rp5ERfEV
