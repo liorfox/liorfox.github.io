@@ -1,4 +1,4 @@
-@import "vars";
+@use "vars" as *;
 
 /*
  * Basic
@@ -132,6 +132,3 @@ hr {
 		margin: 0;
 	}
 }
-
-@import "typography";
-@import "tables";
