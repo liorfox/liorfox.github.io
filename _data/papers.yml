@@ -41,12 +41,12 @@
 
 - year: 2023
   title: 'On the computational principles underlying human exploration'
-  venue: 'PsyArXiv preprint'
+  venue: 'eLife (Reviewed Preprint)'
   authors:
     - Lior Fox
     - Ohad Dan
     - Yonatan Loewenstein
-  link: https://psyarxiv.com/s96b2/
+  link: https://doi.org/10.7554/eLife.90684.1
 
 - year: 2025
   title: 'Is there Value in Reinforcement Learning?'
