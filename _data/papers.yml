@@ -79,3 +79,12 @@
     - Arielle Rosinski
     - Maneesh Sahani
   link: https://openreview.net/forum?id=y7Rp5ERfEV
+
+- year: 2026
+  title: 'Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems'
+  venue: 'The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)'
+  authors:
+    - Arielle Rosinski
+    - Qianqian Feng
+    - Lior Fox
+    - Maneesh Sahani
